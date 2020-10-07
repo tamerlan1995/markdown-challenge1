@@ -34,3 +34,5 @@ Open the door as early as possible ;-)
 Can't seem to think of any :-(
 
 
+[Previous](https://github.com/SandrineLe/markdown-challenge)
+Khaidaev Tamerlan[Next](https://github.com/Tanya-Amber-L/Markdown-Challenge/blob/main/README.md)
